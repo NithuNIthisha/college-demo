@@ -1,3 +1,4 @@
 # college-demo
-this is my first repositort
+this is my first repository
+<br/>
 author- nithu
